@@ -63,7 +63,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     MtkInCallService \
-    XiaomiDolby
+    XiaomiDolby.rubyx
 
 PRODUCT_PACKAGES += \
     libdynproc:32 \
