@@ -1,4 +1,4 @@
-# Unpinned blobs from ruby-user 14 UP1A.231005.007 V816.0.5.0.UMOMIXM release-keys
+# Unpinned blobs from ruby-user 14 UP1A.231005.007 V816.0.12.0.UMOMIXM release-keys
 
 # AEE
 vendor/lib/libaedv.so
@@ -1845,7 +1845,7 @@ vendor/etc/init/wlan_assistant.rc
 vendor/etc/wifi/passpointProfile.conf
 vendor/lib64/libwifi-hal.so:vendor/lib64/libwifi-hal-mtk.so;FIX_SONAME
 
-# Wi-Fi (Config) - from ruby-user 14 UP1A.231005.007 V816.0.6.0.UMOCNXM release-keys
+# Wi-Fi (Config) - from ruby-user 14 UP1A.231005.007 V816.0.10.0.UMOCNXM release-keys
 vendor/firmware/wifi.cfg|5d3344dc18716ae413c3253b8e297f2879d751f8
 
 # Wi-Fi (Firmware) - from a34xxx-user 14 UP1A.231005.007 A346BXXU8CXG7 release-keys
