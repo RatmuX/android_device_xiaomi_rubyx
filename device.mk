@@ -78,7 +78,7 @@ PRODUCT_COPY_FILES += \
 
 # ConsumerIr
 PRODUCT_PACKAGES += \
-    android.hardware.ir-service.xiaomi
+    android.hardware.ir-service.example
 
 # Cgroup
 PRODUCT_COPY_FILES += \
